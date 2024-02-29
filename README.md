@@ -44,7 +44,7 @@ Projeto: OPEN THOT Brain
 ### Imagens do sistema
 <div align="center">
 
-![Logo](./public/assets/img/Front-end.png)
+![Logo](./public/assets/img/Front-end.jpg)
 
 
 </div>
